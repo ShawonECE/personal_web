@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+}
+
+.header{
+    height: 120vh;
+    margin: 0;
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.biography{
+    height: 120vh;
+    margin: 0;
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.latest{
+    height: 110vh;
+    margin: 0;
+    background-image: url(latest-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.last{
+    height: 120vh;
+    margin: 0;
+    background-image: url(footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-size: 3.5vw;
+    margin: 1.5vh 0 3vh 0;
+    color: rgb(255, 57, 136);
+}
+
+h2{
+    font-size: 3vw;
+    font-weight: lighter;
+    margin: 10vh 0 1.5vh 0;
+}
+
+.half-width1{
+    width: 40%;
+    margin-left: 10%;
+    float: left;
+    margin-top: 10%;
+}
+
+.half-width2{
+    width: 40%;
+    margin-right: 10%;
+    float: left;
+    margin-top: 5%;
+}
+
+.half-width3{
+    width: 40%;
+    margin-left: 10%;
+    float: left;
+    margin-top: 5%;
+}
+
+.half-width4{
+    width: 40%;
+    margin-right: 10%;
+    float: left;
+    margin-top: 10%;
+}
+
+.writings{
+    font-size: 1.5vw;
+    text-align: justify;
+    color: dimgray;
+}
+
+.writings_1{
+    font-size: 1.5vw;
+    text-align: center;
+    color: dimgray;
+}
+
+.button{
+    font-size: 1.4vw;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(255, 57, 136);
+    padding: 1.5% 3%;
+    border-radius: 2px;
+}
+
+figure{
+    padding-top: 5%;
+    margin-left: 5.5%;
+    float: left;
+}
+
+figure img{
+    padding-right:3%;
+}
+
+.latest h2{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.last h2{
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.last div{
+    text-align: center;
+}
